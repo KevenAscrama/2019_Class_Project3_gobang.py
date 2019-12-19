@@ -1,0 +1,7 @@
+# 2019_Class_Project3_gobang.py
+用python运行my_gobang.py即可
+
+main_AI()是人机对战
+main_Human()是人人对战
+main_AI_fight_AI2first()是机机对战，AI2是先手
+ main_AI_fight_AI1first()是机机对战，AI1是先手
